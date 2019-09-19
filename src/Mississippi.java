@@ -1,4 +1,11 @@
-
+/* Grading Notes
+25/25 points
+In general, it is a good idea to name your methods something that clearly shows what the method will do.
+For example, rather than 'firstletter' something like 'writeLetterM'. Also, best practice in method names is to use
+lower camel case (start with a lower case letter, each subsequent word starts with upper case).
+I did not deduct points for the case in method names on this project.
+-Sarah Gilliam
+*/
 public class Mississippi {
 
 	public static void main(String[] args) {
